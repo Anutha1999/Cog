@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "question": "Write dow your favourite food items",
+    "questionType": "textInput",
+    "answerOptions": [{ "option": "componentDidMount", "isCorrect": true }]
+  },
+  {
+    "id": 2,
+    "question": "Which is the longest river?",
+    "questionType": "radio",
+    "answerOptions": [
+      { "option": "The Amazon river", "isCorrect": true },
+      { "option": "Nile river", "isCorrect": false },
+      { "option": "River Ganga", "isCorrect": false },
+      { "option": "Red Sea", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Which is the first crypto currency?",
+    "questionType": "checkbox",
+    "answerOptions": [
+      { "option": "Doge coin", "isCorrect": false },
+      { "option": "Bitcoin", "isCorrect": true },
+      { "option": "Shiba Inu", "isCorrect": false },
+      { "option": "Luna", "isCorrect": false }
+    ]
+  }
+  
+]
